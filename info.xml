@@ -9,14 +9,15 @@
     <email>semseysandor@gmail.com</email>
   </maintainer>
   <urls>
-    <url desc="Main Extension Page">https://github.com/semseysandor/hu.es-progress.civirules-addon</url>
+    <url desc="Main Extension Page">https://gitlab.com/semseysandor/hu.es-progress.civirules-addon</url>
     <url desc="Licensing">http://www.gnu.org/licenses/agpl-3.0.html</url>
   </urls>
   <releaseDate>2020-06-04</releaseDate>
-  <version>0.8</version>
-  <develStage>beta</develStage>
+  <version>1.0</version>
+  <develStage>stable</develStage>
   <compatibility>
     <ver>5.0</ver>
+    <ver>5.25</ver>
   </compatibility>
   <classloader>
     <psr4 prefix="Civi\" path="Civi"/>

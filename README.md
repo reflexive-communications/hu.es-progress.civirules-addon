@@ -24,7 +24,7 @@ install it with the command-line tool [cv](https://github.com/civicrm/cv).
 
 ```bash
 cd <extension-dir>
-cv dl hu.es-progress.civirules-addon@https://github.com/semseysandor/hu.es-progress.civirules-addon/archive/master.zip
+cv dl hu.es-progress.civirules-addon@https://gitlab.com/semseysandor/hu.es-progress.civirules-addon/-/archive/master/hu.es-progress.civirules-addon-master.zip
 ```
 
 ## Installation (CLI, Git)
@@ -33,7 +33,7 @@ Sysadmins and developers may clone the [Git](https://en.wikipedia.org/wiki/Git) 
 install it with the command-line tool [cv](https://github.com/civicrm/cv).
 
 ```bash
-git clone https://github.com/semseysandor/hu.es-progress.civirules-addon.git
+git clone https://gitlab.com/semseysandor/hu.es-progress.civirules-addon.git
 cv en civirules_addon
 ```
 
